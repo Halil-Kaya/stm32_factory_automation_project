@@ -1,0 +1,1 @@
+# stm32_factory_automation_project
